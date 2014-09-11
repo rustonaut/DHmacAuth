@@ -10,3 +10,8 @@ TODO
 3. move code form local repo to this repo
 4. make repo avaiable for sbt imports
 5. remove this todo list ;)
+
+
+When can a first working version be excepted?
+=============================================
+If I have eneught time 12.09.2014(evening/night) else during the following next half week
