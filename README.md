@@ -7,7 +7,7 @@ TODO
 =========
 1. add description (here)
 2. ~~add more documentation in the code~~ done
-3. **move (already working) code form local repo to this repo**
+3. ~~move (already working) code form local repo to this repo~~
 4. make repo avaiable for sbt imports
 5. remove this todo list ;)
 
