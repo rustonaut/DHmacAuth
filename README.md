@@ -1,3 +1,5 @@
+**Note: this repo is no longer maintained**
+
 DHmacAuth
 =========
 
